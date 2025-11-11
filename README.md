@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi,i Niranjan
+Hi,i am Niranjan
 
 
 # 💻 Tech Stack:
